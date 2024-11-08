@@ -4,7 +4,7 @@ import Header from './header'
 import SkillSection from './SkillSection'
 export default function Hero() {
   return (
-    <div className='bg-gray-600 text-white git initflex pl-4'>
+    <div className='bg-gray-600 text-white flex pl-4'>
       <div className='text-5xl text-white  pt-16 ml-10 font-semibold '><h1>Portfolio </h1>Template
       <br /><br />
       <Image src="/images/Line 1.png" alt="line" width={200} height={100} />
